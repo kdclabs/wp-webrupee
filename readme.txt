@@ -4,7 +4,7 @@ Donate link: http://www.kdclabs.com/
 Tags: Rupee, India Rupee, Rupee Symbol, India Rupee Symbol, Rs.
 Requires at least: 2.6.3
 Tested up to: 3.5.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ It converts all the Rs / Rs. symbol to Rupee Symbol.
 1. Converts any font Rs / Rs. symbol to Rupee Symbol
 
 == Changelog ==
+
+= 1.0.2 =
+* Bug Fix: CSS loging JS, corrected.
 
 = 1.0.1 =
 * Added direct support to CSS.

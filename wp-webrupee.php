@@ -13,11 +13,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 add_action( 'wp_enqueue_scripts', 'wp_webrupee_js' );
 
 function wp_webrupee_js() {
-	wp_enqueue_script( 'wp-webrupee-js',  plugins_url('assets/js/webrupee.js', __FILE__) );
+	wp_enqueue_script( 'wp-webrupee-script',  plugins_url('assets/js/webrupee.js', __FILE__) );
 }
 
 add_action( 'wp_enqueue_scripts', 'wp_webrupee_css' );
 
 function wp_webrupee_css() {
-	wp_enqueue_style( 'wp-webrupee-css',  plugins_url('assets/css/webrupee.js', __FILE__) );
+	wp_enqueue_style( 'wp-webrupee-style',  plugins_url('assets/css/webrupee.css', __FILE__) );
 }
