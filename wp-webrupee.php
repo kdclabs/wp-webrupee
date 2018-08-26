@@ -3,7 +3,7 @@
 Plugin Name: WP WebRupee
 Plugin URI: http://www.kdclabs.com/?p=74
 Description: WP WebRupee provides a simple, cross browser method for using the Rupee symbol on your WordPress. It converts all the Rs / Rs. symbol to Rupee Symbol.
-Version: 1.0.1
+Version: 1.0.2
 Author: _KDC-Labs
 Author URI: http://www.kdclabs.com/
 License: GNU General Public License v2.0
